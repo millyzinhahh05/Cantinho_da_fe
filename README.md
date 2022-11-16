@@ -3,7 +3,7 @@
 < html >
   <head>
     < title > Cantinho Da Fé</ title >
-<link rel="stylesheet" href="https://meninasnatiifsp.github.io/Site/assents/style.css">
+<link rel="stylesheet" href="https://meninasnatiifsp.github.io/Site/assets/style.css">
     < meta  http-equiv = “Content-Type”  content = “text/html;tcharset =utf-8” >
   </head>
   <body>
